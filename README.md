@@ -11,7 +11,9 @@ Use PNGs and SVGs for websites, marketing material, etc.
    ![alt text](menu.png)
 3. Paste that into the `src=""` tag of your html email.
 
-### Example: `<img src="https://selinosherpa.github.io/cs-logo-peaks.jpg" alt="Care Sherpa Logo" />`
+## Example: `<img src="https://selinosherpa.github.io/cs-logo-peaks.jpg" alt="Care Sherpa Logo" />`
+
+---
 
 ![alt text](cs-logo-peaks.jpg)
 ![alt text](cs-logo-peaks.png)
