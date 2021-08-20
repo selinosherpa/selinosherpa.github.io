@@ -2,9 +2,9 @@
 
 A repo of logos for us to use in Emails, etc.
 
-![alt text](cs-logo.jpg)
-![alt text](cs-logo.png)
-![alt text](cs-logo.svg)
+![alt text](cs-logo-peaks.jpg)
+![alt text](cs-logo-peaks.png)
+![alt text](cs-logo-peaks.svg)
 
 ![alt text](compassus-logo.jpg)
 ![alt text](compassus-logo.png)
