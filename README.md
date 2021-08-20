@@ -10,6 +10,7 @@ Use PNGs and SVGs for websites, marketing material, etc.
 2. Right click on image and **Copy Image Address**
    ![alt text](menu.png)
 3. Paste that into the `src=""` tag of your html email.
+4. Use a [base64 encoder](https://www.base64encoder.io/image-to-base64-converter/) to embed into emails rather than link.
 
 ## Example: `<img src="https://selinosherpa.github.io/cs-logo-peaks.jpg" alt="Care Sherpa Logo" />`
 
