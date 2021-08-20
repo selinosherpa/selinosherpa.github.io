@@ -1,8 +1,9 @@
-# logos
+# Image Repo
 
-A repo of logos for us to use in Emails, etc.
+Use JPGs for emails
+Use PNGs and SVGs for websites, marketing material, etc.
 
-## For use in emails
+## How to get the url for images
 
 1. Select an image. (usually JPG is the safe format)
 2. Right click on image and **Copy Image Address**
