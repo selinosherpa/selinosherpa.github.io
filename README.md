@@ -1,6 +1,7 @@
-# Image Repo
+Scroll down to find various logos and images.
 
-Use JPGs for emails
+Use JPGs for emails.
+
 Use PNGs and SVGs for websites, marketing material, etc.
 
 ## How to get the url for images
